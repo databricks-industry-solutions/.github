@@ -1,6 +1,6 @@
 # Databricks Industry Solutions
 
-<a href=https://youtu.be/aoqIsPZpeac> <img src=https://databricks.com/wp-content/uploads/2021/11/Graphic-header-solutions.svg ></a>
+<img src=https://databricks.com/wp-content/uploads/2021/11/Graphic-header-solutions.svg>
 
 Databricks Solution Accelerators are fully functional notebooks that tackle the most common and high-impact use cases that you face every day.
 
