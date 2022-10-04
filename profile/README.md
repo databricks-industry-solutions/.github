@@ -1,4 +1,4 @@
-<a href="https://databricks.com/try-databricks"><img src='https://user-images.githubusercontent.com/4445837/177666587-657ae25e-9539-4182-ad2b-ec99bbfb5aaf.png'></img></a>
+<a href="https://www.databricks.com/solutions/accelerators"><img src='https://github.com/databricks-industry-solutions/.github/raw/main/profile/solacc_logo_wide.png'></img></a>
 
 Databricks Solution Accelerators are fully functional notebooks that tackle the most common and high-impact use cases that you face every day.
 
