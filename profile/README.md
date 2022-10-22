@@ -4,10 +4,10 @@ Databricks Solution Accelerators are fully functional notebooks that tackle the 
 
 ## By Industry
 
-- [Lakehouse for Financial Services](https://databricks.com/solutions/industries/financial-services)
-- [Lakehouse for Media and Entertainment](https://databricks.com/solutions/industries/media-and-entertainment)
-- [Lakehouse for Healthcare and Life Sciences](https://databricks.com/solutions/industries/healthcare-and-life-sciences)
-- [Lakehouse for Retail](https://databricks.com/solutions/industries/retail-industry-solutions)
+- [Lakehouse for Financial Services](https://databricks.com/solutions/industries/financial-services), [Accelerators](https://www.databricks.com/solutions/accelerators?filters=financial)
+- [Lakehouse for Media and Entertainment](https://databricks.com/solutions/industries/media-and-entertainment), [Accelerators](https://www.databricks.com/solutions/accelerators?filters=media)
+- [Lakehouse for Healthcare and Life Sciences](https://databricks.com/solutions/industries/healthcare-and-life-sciences), [Accelerators](https://www.databricks.com/solutions/accelerators?filters=healthcare)
+- [Lakehouse for Retail](https://databricks.com/solutions/industries/retail-industry-solutions), [Accelerators](https://www.databricks.com/solutions/accelerators?filters=retail)
 
 ## Getting started
 
