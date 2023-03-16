@@ -1,3 +1,17 @@
+<img src='https://github.com/databricks-industry-solutions/.github/raw/main/profile/solacc_logo_wide.png' width="1000" ></img>
+# Contributing to [Industry Solution Accelerators](https://www.databricks.com/solutions/accelerators) - the Field Guide
+
+Thank you for your interest in contributing to solution accelerators! Solution accelerator are Databricks' repository to host reusable technical assets for industry technical challenges and business use cases. The program is run by Sales GTM Verticals and supported by field contribution.
+
+The purpose of this notebook is to describe the process for contributing to accelerators and provide helpful checklists for important milestones: intake, commit, standardization and publication. Hopefully this checklist will be useful for first-time and repeat contributors alike.
+
+<img src='https://github.com/databricks-industry-solutions/.github/raw/main/profile/Solution%20Accelerator%20FY24.jpg'></img>
+
+___
+Maintainer: [@nicole.lu](https://databricks.enterprise.slack.com/team/jingting_lu)
+___
+
+
 ## Intake
 ❓ If you brought your own code, can you summarize what problem your code solves in less than 100 words? 
   * Does it tackle an industry **business use case**, or a common industry **technical challenge**
