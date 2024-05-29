@@ -4,10 +4,14 @@ Databricks Solution Accelerators are fully functional notebooks that tackle the 
 
 ## By Industry
 
-- [Accelerators for Financial Services](https://www.databricks.com/solutions/accelerators?filters=financial)
-- [Accelerators for Media and Entertainment](https://www.databricks.com/solutions/accelerators?filters=media)
-- [Accelerators for Healthcare and Life Sciences](https://www.databricks.com/solutions/accelerators?filters=healthcare)
-- [Accelerators for Retail and Consumer Goods](https://www.databricks.com/solutions/accelerators?filters=retail)
+- [Accelerators for Financial Services](https://www.databricks.com/solutions/accelerators?industry=Financial%20Services)
+- [Accelerators for Healthcare and Life Sciences](https://www.databricks.com/solutions/accelerators?industry=Healthcare%20and%20Life%20Sciences)
+- [Accelerators for Retail and Consumer Goods](https://www.databricks.com/solutions/accelerators?industry=Retail%20and%20Consumer%20Goods)
+- [Accelerators for Media and Entertainment](https://www.databricks.com/solutions/accelerators?industry=Media%20and%20Entertainment)
+- [Accelerators for Manufacturing](https://www.databricks.com/solutions/accelerators?industry=Manufacturing)
+- [Accelerators for Public Sector](https://www.databricks.com/solutions/accelerators?industry=Public%20Sector)
+- [Accelerators for Technology and Software](https://www.databricks.com/solutions/accelerators?industry=Technology%20and%20Software)
+
 
 ## Getting started
 
