@@ -1,6 +1,6 @@
 <a href="https://www.databricks.com/solutions/accelerators"><img src='https://github.com/databricks-industry-solutions/.github/raw/main/profile/solacc_logo_wide.png'></img></a>
 
-Databricks Solution Accelerators are fully functional notebooks that tackle the most common and high-impact use cases that you face every day.
+Databricks Solution Accelerators are fully functional notebooks that tackle the most common and high-impact use cases that you face every day. Databricks customers utilize Solution Accelerators as a starting-point for new data use-cases and product development. Solution Accelerators are vetted and built by industry experts at Databricks. 
 
 ## By Industry
 
